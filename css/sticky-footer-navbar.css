@@ -85,3 +85,7 @@ code {
 .map-row {
   height: 600px;
 }
+
+.centered {
+  text-align: center;
+}

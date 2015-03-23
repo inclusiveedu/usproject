@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.23619272" vertical-offset="1635" max-vertical-offset="2754">
-              <caret line="108" column="208" selection-start-line="108" selection-start-column="208" selection-end-line="108" selection-end-column="208" />
+              <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -59,8 +59,8 @@
       <file leaf-file-name="sticky-footer-navbar.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/sticky-footer-navbar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="674" max-vertical-offset="1581">
-              <caret line="85" column="2" selection-start-line="85" selection-start-column="2" selection-end-line="85" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="674" max-vertical-offset="1632">
+              <caret line="88" column="9" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -72,8 +72,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/custom.js" />
-        <option value="$PROJECT_DIR$/css/sticky-footer-navbar.css" />
         <option value="$PROJECT_DIR$/page.html" />
+        <option value="$PROJECT_DIR$/css/sticky-footer-navbar.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -318,6 +318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33295324" vertical-offset="32722" max-vertical-offset="112030">
           <caret line="1942" column="2" selection-start-line="1942" selection-start-column="2" selection-end-line="1942" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -333,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sticky-footer-navbar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="674" max-vertical-offset="1581">
-          <caret line="85" column="2" selection-start-line="85" selection-start-column="2" selection-end-line="85" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="674" max-vertical-offset="1632">
+          <caret line="88" column="9" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -350,7 +351,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23619272" vertical-offset="1635" max-vertical-offset="2754">
-          <caret line="108" column="208" selection-start-line="108" selection-start-column="208" selection-end-line="108" selection-end-column="208" />
+          <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
           <folding />
         </state>
       </provider>
