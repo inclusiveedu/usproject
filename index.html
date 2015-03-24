@@ -1,4 +1,4 @@
-﻿<html>
+<html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>База даних USAID</title>
@@ -86,7 +86,7 @@
             <div class="inline toggle">Освіта:
               <div class="btn-group" role="group" aria-label="Освіта">
                   <a href="" class="btn btn-primary">Інклюзивна</a>
-                  <a href="" class="btn btn-primary">Спеціальна</a>
+                  <a id="spec-btn" href="" class="btn btn-primary">Спеціальна</a>
               </div>
             </div>
             <div class="inline separator toggle">Заклад:
@@ -96,6 +96,25 @@
               </div>
             </div>
           </div>
+	  <div class="panel panel-default hidden text-center" id="spec-panel">
+	    <div class="panel-heading">Нозології</div>
+	    <div class="panel-body toggle centerd">
+	      <div class="btn-group" role="group" aria-label="">
+		<a href="" class="btn btn-primary">Інтелектуальна недостатність</a>
+		<a href="" class="btn btn-primary">Затримка психічного розвитку</a>
+		<a href="" class="btn btn-primary">Порушення мовлення</a>
+	      </div>
+	      <div class="btn-group" role="group" aria-label="">
+		<a href="" class="btn btn-primary">Порушення слуху</a>
+		<a href="" class="btn btn-primary">Порушення зору</a>
+		<a href="" class="btn btn-primary">Порушення розумового розвитку</a>
+	      </div>
+	      <div class="btn-group" role="group" aria-label="">
+		<a href="" class="btn btn-primary">Порушення опорно-рухового апарату</a>
+		<a href="" class="btn btn-primary">Психоневрологічні порушення</a>
+	      </div>
+	    </div>
+	  </div>
           <div class="row bare-row map-row">
             <div id="map_canvas" style="width:100%; height:100%">
             </div>
@@ -141,7 +160,6 @@
         var infowindow = new google.maps.InfoWindow({
               content: "<h3>То є файна школа.</h3><br/>" +
                 "Гарного дня, добродії!<br/>" +
-                "<strong>Директор:</strong> Петренко Дмитро Анатолійович.<br/>" +
                 "<strong>Адреса:</strong> вул. Михайлівська, 7.<br/>" +
                 "<strong>Телефон:</strong> (044) 546-87-98<br/>"
           });
